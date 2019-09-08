@@ -1,0 +1,29 @@
+body{
+  background:url(https://wallpaperclicker.com/storage/wallpaper/Wikipedia-d-HD-Wallpaper-53242320.jpg)top center;
+
+   background-size:100%;
+  background-repeat: no-repeat;
+  height: 100vh;
+}
+
+h4{
+  padding-top:0.6em;
+}
+.entrys{
+ background:silver;
+  background-size:100%;
+  }
+
+a{
+  padding:0.6em;
+}
+p{
+    padding-left:0.8em!important;
+  padding-right:0.8em!important;
+  padding-bottom:0.8em!important;
+}
+li{
+  margin:40px!important;
+  padding-left:40px;
+  padding-right:40px;
+}
